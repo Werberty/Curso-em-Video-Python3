@@ -1,5 +1,6 @@
 # Curso-em-Video-Python3
  Exercícios resolvidos de Python do canal Curso em Vídeo
+ 
  Link do curso e exercícios:
  
  Modulo 1: https://youtu.be/S9uPNppGsGo
