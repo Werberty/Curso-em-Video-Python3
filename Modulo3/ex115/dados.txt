@@ -1,0 +1,3 @@
+Paulo;45
+Julia;12
+Barildo;55

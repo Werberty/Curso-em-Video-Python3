@@ -1,0 +1,8 @@
+nome = str(input('Digite seu nome completo: ')).strip()
+print(nome.upper())
+print(nome.lower())
+print(len(nome.replace(' ', '')))
+print(len(nome) - nome.count(' '))
+div_nome = nome.split()
+print(nome.find(' '))
+print(len(div_nome[0]))
