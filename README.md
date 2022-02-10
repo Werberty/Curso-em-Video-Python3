@@ -3,10 +3,10 @@
  
  Link do curso e exercícios:
  
- Modulo 1: https://youtu.be/S9uPNppGsGo
+ Modulo 1: https://youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
  
- Modulo 2: https://youtu.be/nJkVHusJp6E
+ Modulo 2: https://youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
  
- Modulo 3: https://youtu.be/0LB3FSfjvao
+ Modulo 3: https://youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH
  
- Playlist de todos os exercícios: https://youtu.be/nIHq1MtJaKs
+ Playlist de todos os exercícios: https://youtube.com/playlist?list=PLHz_AreHm4dm6wYOIW20Nyg12TAjmMGT-
